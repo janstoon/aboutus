@@ -1,7 +1,7 @@
 # Janstun
 
 # Contents
-* [Founders](#foudners)
+* [Men Behind Janstun](#men-behind-janstun)
 * [History](#history)
 * [Vision](#vision)
 * [Professional Standards](#professional-standards)
@@ -10,7 +10,7 @@
 * [Careers](#careers)
 * [Contact Us](#contact-us)
 
-# Founders
+# Men Behind Janstun
 
 # History
 
@@ -25,7 +25,7 @@
 # Services
 
 # Careers
-If you're interested in Janstun and asked yourself: "What if I'd been there" don't hesisate to take a look at available [job opportunities][careers] in Janstun and contact us over [email][career-mail] or [Janstun website][career-website] or [Jobinja website][career-jobinja] or [Linkedin][career-linkedin]
+If you're interested in Janstun and asked yourself: "What if I'd been there" don't hesisate to take a look at available [JOB OPPORTUNITIES][careers] in Janstun and contact us over [email][career-mail] or [Janstun website][career-website] or [Jobinja website][career-jobinja] or [Linkedin][career-linkedin]
 
 # Contact Us
 * [Janstun Website][janstun]
