@@ -39,7 +39,7 @@ If you're interested in Janstun and asked yourself: "What if I'd been there" don
 [contact-pouyan-linkedin]: https://www.linkedin.com/in/pouyanh/
 [contact-pouyan-twitter]: linkedin.com/in/pouyanh/
 [careers]: /aboutus/careers
-[career-mail]: mailto:career@janstun.com
+[career-mail]: mailto:job@janstun.com
 [career-website]: http://janstun.com/careers
 [career-jobinja]: https://jobinja.ir/companies/janstun/jobs
 [career-linkedin]: https://www.linkedin.com/company/janstun/jobs
