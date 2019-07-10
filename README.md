@@ -6,6 +6,7 @@
 * [Vision](#vision)
 * [Professional Standards](#professional-standards)
 * [Products](#products)
+* [Services](#services)
 * [Careers](#careers)
 * [Contact Us](#contact-us)
 
@@ -18,6 +19,10 @@
 # Professional Standards
 
 # Products
+
+## Nyrika
+
+# Services
 
 # Careers
 If you're interested in Janstun and asked yourself: "What if I'd been there" don't hesisate to take a look at available [job opportunities][careers] in Janstun and contact us over [email][career-mail] or [Janstun website][career-website] or [Jobinja website][career-jobinja] or [Linkedin][career-linkedin]

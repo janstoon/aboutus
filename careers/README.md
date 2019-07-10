@@ -1,9 +1,9 @@
-# Careers in Janstun
+# Career path in Janstun
 
 # Available job opportunities
 Blah blah blah
-* [Concurrent Service Developer][backend-developer]
-* [Component-based Webapp Developer][frontend-developer]
+* [Concurrent Service Developer][service-developer]
+* [Component-based Webapp Developer][webapp-developer]
 
-[backend-developer]: /aboutus/careers/Backend
-[frontend-developer]: /aboutus/careers/Frontend
+[service-developer]: /aboutus/careers/service
+[webapp-developer]: /aboutus/careers/webapp
