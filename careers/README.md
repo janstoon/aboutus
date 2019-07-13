@@ -4,8 +4,8 @@
 # Career path in Janstun
 
 # Available job opportunities
-* [Concurrent Service Developer][service-developer]
-* [Component-based Webapp Developer][webapp-developer]
+* [Senior Concurrent Service Developer][s-service-developer]
+* [Senior Component-based Webapp Developer][s-webapp-developer]
 
-[service-developer]: /aboutus/careers/service
-[webapp-developer]: /aboutus/careers/webapp
+[s-service-developer]: /aboutus/careers/service
+[s-webapp-developer]: /aboutus/careers/webapp
