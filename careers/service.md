@@ -1,36 +1,28 @@
-# Concurrent Service Developer
-[Janstun][janstun] is looking for both experienced and aspiring senior service developers to join our Nyrika products. We offer you a chance to work with industry leading professionals and put modern development concepts, like [DDD][ddd] and [CQRS][cqrs], into action to create innovative data center maintenance softwares.
+# Senior Concurrent Service Developer
+We are looking for a Senior Service Developer to work locally in our office on our projects.
+You are ought to recognize the problem, create behavioral models and make a software to solve issues using that model.
 
 # Contents
 * [Janstun](#janstun)
-    * [Discipline](#discipline)
-* [Skills](#skills)
-    * [Knowledege](#knowledege)
-    * [Technologies](#technologies)
-* [Responsibilities](#responsibilities)
+* [Expectations](#expectations)
 * [Apply for this position](#apply-for-this-position)
 
 # Janstun
 
 ## Discipline
 
-# Skills
-Although being intelligent is enough for joining Janstun, there are some technical requirements described below:
-
-## Knowledege
-* Be able to design solutions based on one of object-oriented or functinoal paradigm to resolve issues
+# Expectations
+As a service developer you are responsible for design, implementation and documentation of backend services which have to be stateless, fast, secure, highly available and both horizontally and vertically scalable. In fact we expect you to be able to:
+* Design solutions based on one of object-oriented or functinoal paradigm to resolve issues
 * Architect layered systems to adhere to Separation of Concerns principle
 * Observe SOLID principles in OO-based solutions
 * Design modular and testable units
-* Experienced in parallel and concurrent process handling
-
-## Technologies
-* Be fluent in one of: go, C, Java, python
 * Control source codes using git
-* Linux intermediate user
 
-# Responsibilities
-As a service developer you are responsible for design, implementation and documentation of stateless, fast, secure, highly available and both horizontally and vertically scalable services. You are ought to recognize the problem, create behavioural models and make a software to solve issues using that model.
+And be:
+* Experienced in parallel and concurrent process handling
+* Fluent in one of: go, C, Java, python
+* A Linux intermediate user
 
 # Apply for this position
 In case you fit for the position described above you can apply for it via these options:
