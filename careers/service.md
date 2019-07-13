@@ -21,6 +21,7 @@ Although being intelligent is enough for joining Janstun, there are some technic
 * Architect layered systems to adhere to Separation of Concerns principle
 * Observe SOLID principles in OO-based solutions
 * Design modular and testable units
+* Experienced in parallel and concurrent process handling
 
 ## Technologies
 * Be fluent in one of: go, C, Java, python
