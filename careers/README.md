@@ -7,5 +7,6 @@
 * [Senior Concurrent Service Developer][s-service-developer]
 * [Senior Component-based Webapp Developer][s-webapp-developer]
 
+[janstun]: http://www.janstun.com
 [s-service-developer]: /aboutus/careers/service
 [s-webapp-developer]: /aboutus/careers/webapp
