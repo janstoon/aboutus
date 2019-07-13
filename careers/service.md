@@ -1,6 +1,6 @@
 # Concurrent Service Developer
 
-# Domain
+# Contents
 * [Janstun](#janstun)
     * [Discipline](#discipline)
 * [Skills](#skills)
@@ -14,10 +14,18 @@
 ## Discipline
 
 # Skills
+Although being intelligent is enough for joining Janstun, there are some technical requirements described below:
 
 ## Knowledege
+* Be able to design solutions based on one of object-oriented or functinoal paradigm to resolve issues
+* Architect layered systems to adhere to Separation of Concerns principle
+* Observe SOLID principles in OO-based solutions
+* Design modular and testable units
 
 ## Technologies
+* Be fluent in one of: go, C, Java, python
+* Control source codes using git
+* Linux intermediate user
 
 # Responsibilities
 
