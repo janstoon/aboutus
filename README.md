@@ -1,6 +1,8 @@
 # Janstun
+[Janstun][janstun] is a startup which was founded in July 2017 and is currently active in IT solutions esp. software development.
 
 # Men Behind Janstun
+Two people, [Ali Abniki][contact-ali-linkedin] (at that time) a 10+ years experienced computer networks architect and [Pouyan Heyratpour][contact-pouyan-linkedin] from software development world with more than 7 years of experience at that time, joined together and established the [Janstun][janstun].
 
 # History
 
