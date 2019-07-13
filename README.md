@@ -1,15 +1,5 @@
 # Janstun
 
-# Contents
-* [Men Behind Janstun](#men-behind-janstun)
-* [History](#history)
-* [Vision](#vision)
-* [Professional Standards](#professional-standards)
-* [Products](#products)
-* [Services](#services)
-* [Careers](#careers)
-* [Contact Us](#contact-us)
-
 # Men Behind Janstun
 
 # History
