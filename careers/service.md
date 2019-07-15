@@ -18,8 +18,6 @@ And be:
 # Apply for this position
 In case you fit for the position described above you can apply for it by:
 * Send your CV and Cover Letter to [job \[at\] janstun.com][apply-email]
-or
-* Apply for current position in: [Jobinja][apply-jobinja]
 
 [janstun]: http://www.janstun.com
 [apply-jobinja]: https://jobinja.ir/companies/janstun/jobs/XYZ
